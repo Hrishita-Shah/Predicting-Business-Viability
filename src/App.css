@@ -31,7 +31,7 @@ section {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: brown;
+  background-color: #7F9183;
 }
 
 .column {
@@ -74,7 +74,8 @@ section {
 
 .project-name {
   color: #fff;
-  background-color: black;
+  background-color: #3a5752;
+  opacity: 0.95;
   border-radius: 10px;
   position: absolute;
 }
@@ -92,7 +93,7 @@ section {
 }
 
 .sec2 {
-  background-color: #3C78D8;
+  background-color: #3a5752;
 }
 
 .text-container {
@@ -133,7 +134,7 @@ section {
 /* third section*/
 
 .sec3 {
-  background-color: rgb(21, 247, 21);
+  background-color: #304442;
 }
 
 .third {
@@ -148,6 +149,7 @@ section {
   align-items: center;
   justify-content: space-between;
   width: 33%;
+  margin-top: -5px;
 }
 
 .company-name {
@@ -158,7 +160,7 @@ section {
 }
 
 .company-attributes {
-  background-color: white;
+  background-color: #DDD5D0;
 }
 
 .accordion-heading {
@@ -184,5 +186,5 @@ section {
 
 /*fourth section*/
 .sec4 {
-  background-color: #1A1A1A;
+  background-color: #324837;
 }

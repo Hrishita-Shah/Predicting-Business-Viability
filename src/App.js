@@ -34,7 +34,7 @@ import { FaRegNewspaper } from "react-icons/fa6";
 
 function App() {
   const [text] = useTypewriter({
-    words: ["Project Heading"],
+    words: ["Predicting Business Viability for Smart Investment"],
     loop: {},
     typeSpeed: 120,
     deleteSpeed: 100,
@@ -75,7 +75,7 @@ function App() {
       <Card
         size="xs"
         variant="elevated"
-        backgroundColor="#8BC34A"
+        backgroundColor="#DDD5D0"
         paddingLeft="3"
         paddingBottom="3"
         paddingRight="3"
